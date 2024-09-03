@@ -1,3 +1,32 @@
+Trabalho 3
+
 Os Data Centers, também chamado de Centro de Processamento de Dados, estão incluídos nas adequações da Lei Geral de Proteção de Dados (LGPD), inclusive, por estarem no ramo de empresas que hospedam dados e aplicações corporativas.
 Uma das funções mais importantes é assegurar que as informações e sistemas hospedados nos Data Centers possam ser acessados a qualquer momento. A estrutura do controlador do Data Center é o local onde rodam o sistema e a rede de dados é instalada e mantida. É este lugar que deve operar com base nos preceitos da LGPD.
  No Brasil, a LGPD (Lei Geral de Proteção de Dados) estabelece regras para a coleta, armazenamento e uso de dados pessoais. Data centers, que armazenam e processam esses dados, devem garantir que suas operações estejam em conformidade com a LGPD, implementando medidas de segurança para proteger os dados e permitindo que os titulares dos dados exerçam seus direitos.
+
+Trabalho 4
+
+#include <iostream>
+
+int main() {
+    int num1 = 7, num2 = 5, sum;
+
+    // Calcula a soma
+    sum = num1 + num2;
+
+    // Exibe o resultado da soma
+    std::cout << "A soma é: " << sum << std::endl;
+
+    return 0;
+}
+C++
+#include <stdio.h>
+
+int main() {
+    
+    int numero1 = 5;
+    int numero2 = 2;
+
+
+    int resultado = numero1 * numero2;
+
